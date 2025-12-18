@@ -1,0 +1,37 @@
+[1.381s] Invoking command in '/home/kenil/ev-energy-management/ros2/ws/src/ev_energy_monitor': PYTHONPATH=/home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ev_energy_monitor build --build-base /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build install --record /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/install.log --single-version-externally-managed install_data
+[1.662s] running egg_info
+[1.663s] creating ../../build/ev_energy_monitor/ev_energy_monitor.egg-info
+[1.682s] writing ../../build/ev_energy_monitor/ev_energy_monitor.egg-info/PKG-INFO
+[1.682s] writing dependency_links to ../../build/ev_energy_monitor/ev_energy_monitor.egg-info/dependency_links.txt
+[1.682s] writing entry points to ../../build/ev_energy_monitor/ev_energy_monitor.egg-info/entry_points.txt
+[1.682s] writing requirements to ../../build/ev_energy_monitor/ev_energy_monitor.egg-info/requires.txt
+[1.683s] writing top-level names to ../../build/ev_energy_monitor/ev_energy_monitor.egg-info/top_level.txt
+[1.683s] writing manifest file '../../build/ev_energy_monitor/ev_energy_monitor.egg-info/SOURCES.txt'
+[1.721s] reading manifest file '../../build/ev_energy_monitor/ev_energy_monitor.egg-info/SOURCES.txt'
+[1.721s] writing manifest file '../../build/ev_energy_monitor/ev_energy_monitor.egg-info/SOURCES.txt'
+[1.723s] running build
+[1.723s] running build_py
+[1.723s] creating /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build
+[1.724s] creating /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build/lib
+[1.724s] creating /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build/lib/ev_energy_monitor
+[1.725s] copying ev_energy_monitor/energy_publisher.py -> /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build/lib/ev_energy_monitor
+[1.726s] copying ev_energy_monitor/__init__.py -> /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build/lib/ev_energy_monitor
+[1.726s] running install
+[1.733s] running install_lib
+[1.752s] creating /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages/ev_energy_monitor
+[1.752s] copying /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build/lib/ev_energy_monitor/energy_publisher.py -> /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages/ev_energy_monitor
+[1.753s] copying /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build/lib/ev_energy_monitor/__init__.py -> /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages/ev_energy_monitor
+[1.753s] byte-compiling /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages/ev_energy_monitor/energy_publisher.py to energy_publisher.cpython-312.pyc
+[1.756s] byte-compiling /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages/ev_energy_monitor/__init__.py to __init__.cpython-312.pyc
+[1.756s] running install_data
+[1.756s] creating /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/share/ament_index
+[1.757s] creating /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/share/ament_index/resource_index
+[1.757s] creating /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/share/ament_index/resource_index/packages
+[1.758s] copying resource/ev_energy_monitor -> /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/share/ament_index/resource_index/packages
+[1.758s] copying package.xml -> /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/share/ev_energy_monitor
+[1.759s] running install_egg_info
+[1.780s] Copying ../../build/ev_energy_monitor/ev_energy_monitor.egg-info to /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages/ev_energy_monitor-0.0.0-py3.12.egg-info
+[1.782s] running install_scripts
+[1.918s] Installing energy_publisher script to /home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/ev_energy_monitor
+[1.921s] writing list of installed files to '/home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/install.log'
+[1.968s] Invoked command in '/home/kenil/ev-energy-management/ros2/ws/src/ev_energy_monitor' returned '0': PYTHONPATH=/home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kenil/ev-energy-management/ros2/ws/install/ev_energy_monitor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ev_energy_monitor build --build-base /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/build install --record /home/kenil/ev-energy-management/ros2/ws/build/ev_energy_monitor/install.log --single-version-externally-managed install_data

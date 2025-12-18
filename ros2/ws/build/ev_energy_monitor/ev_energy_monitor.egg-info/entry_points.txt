@@ -1,0 +1,2 @@
+[console_scripts]
+energy_publisher = ev_energy_monitor.energy_publisher:main
